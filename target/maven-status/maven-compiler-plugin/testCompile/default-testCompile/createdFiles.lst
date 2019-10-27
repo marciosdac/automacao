@@ -1,0 +1,6 @@
+br/com/test/automacao/TestRunner.class
+br/com/test/automacao/model/Sale.class
+br/com/test/automacao/model/Customer.class
+br/com/test/automacao/SalesFileTest.class
+br/com/test/automacao/model/Salesman.class
+br/com/test/automacao/model/Item.class
